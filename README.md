@@ -4,8 +4,8 @@
 ### Задание 1
 
 
+![image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/18e76fbd-1315-4cca-b98a-c650c1f9219e)
 
-1. `https://github.com/Skrypnikoviv/git1/commit/275c612e844a02a1f71ba9df79eceb30f8d2f168`
 
 
 ### Задание 2

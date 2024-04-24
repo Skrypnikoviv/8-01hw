@@ -13,6 +13,7 @@ ilko@ilko-VirtualBox:~$ rsync -a --progress --delete --exclude=".*/" --delete-ex
 3. Добавим проверку контрольных сумм файлов:
 ```
 ilko@ilko-VirtualBox:~$ rsync -a --progress --delete --exclude=".*/" --delete-excluded --checksum . /tmp/backup
+```
 ![image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/c4f143a0-7727-438d-8490-5d4737575aa2)
 ![image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/f7d9cfa4-097b-4f15-9cc0-2615a8dfcdce)
 
@@ -35,7 +36,7 @@ fi
 Создадим расписание выполнения задания с помощью **Cron** - **ежедневно в 11:32**:
 ```
 crontab -e
-```
+
 ![image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/f31c6485-1637-4440-a8dd-9b46d3564e26)
 
 Скриншот, на котором с результатом работы утилиты:

@@ -13,9 +13,9 @@ ilko@ilko-VirtualBox:~$ rsync -a --progress --delete --exclude=".*/" --delete-ex
 3. Добавим проверку контрольных сумм файлов:
 ```
 ilko@ilko-VirtualBox:~$ rsync -a --progress --delete --exclude=".*/" --delete-excluded --checksum . /tmp/backup
-<kbd>![Выполнение команды из Задания 1]([image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/c4f143a0-7727-438d-8490-5d4737575aa2))</kbd>
-<kbd>![Результат выполнения команды из Задания 1]([image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/f7d9cfa4-097b-4f15-9cc0-2615a8dfcdce)
-)</kbd>
+<kbd>![Выполнение команды из Задания 1][image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/c4f143a0-7727-438d-8490-5d4737575aa2)</kbd>
+<kbd>![Результат выполнения команды из Задания 1][image](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/f7d9cfa4-097b-4f15-9cc0-2615a8dfcdce)
+</kbd>
 
 
 

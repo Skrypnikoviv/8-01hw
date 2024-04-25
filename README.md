@@ -3,9 +3,7 @@
 
 ### Задание 1
 
-
-
-1. `https://github.com/Skrypnikoviv/git1/commit/275c612e844a02a1f71ba9df79eceb30f8d2f168`
+[Схема](hsrp_hw.pkt)
 
 
 ### Задание 2

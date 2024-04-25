@@ -9,6 +9,7 @@
 ### Задание 2
 
 ![hw2-3](https://github.com/Skrypnikoviv/8-01hw/assets/162264420/7f392ac8-e9dc-4169-9af2-6612d76dfc92)
+
 [конфиг2](https://github.com/Skrypnikoviv/8-01hw/blob/sflt-homeworks2/haproxy2.cfg)
 
 

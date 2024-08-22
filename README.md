@@ -2,7 +2,9 @@
 
 Задание 1
 Напишите запрос к учебной базе данных, который вернёт процентное отношение общего размера всех индексов к общему размеру всех таблиц.
-
+```sql
+SELECT ROUND(SUM(INDEX_LENGTH)/SUM(DATA_LENGTH)*100,2) AS Index_to_table_ratio FROM information_schema.TABLES WHERE TABLE_SCHEMA = 'sakila';
+```
 Задание 2
 Выполните explain analyze следующего запроса:
 

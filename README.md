@@ -51,9 +51,9 @@ PORT STATE SERVICE
 
 Уязвимости которые удалось обнаружить :
 
-vsftpd 2.3.4 - Backdoor Command Execution.
-OpenSSH < 7.7 - User Enumeration (2).
-MySQL 5.0.x - IF Query Handling Remote Denial of Service.
+- vsftpd 2.3.4 - Backdoor Command Execution.
+- OpenSSH < 7.7 - User Enumeration (2).
+- MySQL 5.0.x - IF Query Handling Remote Denial of Service.
 
 ### Задание 2 
 
